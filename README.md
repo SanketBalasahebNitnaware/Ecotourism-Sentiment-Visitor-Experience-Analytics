@@ -6,3 +6,16 @@ Optimize Resource Allocation: Pinpoint high-risk visitor segments, underperformi
 
 ## Dataset used
 - <a href="https://github.com/SanketBalasahebNitnaware/Ecotourism-Sentiment-Visitor-Experience-Analytics/raw/refs/heads/main/Ecotourism_Dataset.xlsx">Ecotourism Data</a>
+
+#Dashboard
+
+
+Architecture & Modeling: Designed an end-to-end Power BI reporting solution over 2,400 multi-dimensional visitor records, engineering a star schema data model (1 Fact, 4 Dimensions) in Power Query to optimize query performance and VertiPaq compression.
+
+DAX & KPI Development: Authored 15+ complex DAX measures—including Net Sentiment Score (NSS), Return Propensity Rates, and moving averages—to track customer satisfaction across demographic and site-type segments.
+
+Dashboard Design & Visual Analytics: Built an interactive, dark-themed two-page executive dashboard featuring Key Influencers AI visuals, dynamic drill-throughs, and sentiment distribution matrices to isolate key operational bottlenecks (e.g., facility cleanliness and guide quality).
+
+Business Impact: Delivered root-cause insights demonstrating that operational facility upgrades directly influence a 4.2x reduction in negative visitor feedback, providing leadership with data-driven resource allocation strategies.
+
+Tech Stack: Power BI, DAX, Power Query, Data Modeling (Star Schema), Python (Pandas/NLP Preprocessing), Data Visualization.
