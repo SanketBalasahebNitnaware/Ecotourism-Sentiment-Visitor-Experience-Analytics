@@ -5,7 +5,7 @@ Identify Operational Drivers: Discover which operational touchpoints (e.g., faci
 Optimize Resource Allocation: Pinpoint high-risk visitor segments, underperforming site types, and seasonal fluctuations to protect return intent and recommendation propensity.
 
 ## Dataset used
-- <a href="https://github.com/SanketBalasahebNitnaware/Ecotourism-Sentiment-Visitor-Experience-Analytics/raw/refs/heads/main/Ecotourism_Dataset.xlsx">Ecotourism Data</a>
+- <a href="https://github.com/SanketBalasahebNitnaware/Ecotourism-Sentiment-Visitor-Experience-Analytics/raw/refs/heads/main/Ecotourism_Dataset.xlsx">Ecotourism Data</a>.
 
 ##Dashboard
 
