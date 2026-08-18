@@ -7,7 +7,8 @@ Optimize Resource Allocation: Pinpoint high-risk visitor segments, underperformi
 ## Dataset used
 - <a href="https://github.com/SanketBalasahebNitnaware/Ecotourism-Sentiment-Visitor-Experience-Analytics/raw/refs/heads/main/Ecotourism_Dataset.xlsx">Ecotourism Data</a>.
 
-##Dashboard
+
+Dashboard
 
 - <a href="https://github.com/SanketBalasahebNitnaware/Ecotourism-Sentiment-Visitor-Experience-Analytics/blob/main/Dashboard%20Overview.png?raw=true">Ecotourism Overview</a>
 - <a href="https://github.com/SanketBalasahebNitnaware/Ecotourism-Sentiment-Visitor-Experience-Analytics/blob/main/Customer%20review%20and%20operational%20metrics.png?raw=true">Customer review & Operation metrics</a>
