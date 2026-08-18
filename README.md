@@ -23,4 +23,4 @@ Dashboard Design & Visual Analytics: Built an interactive, dark-themed two-page 
 
 Business Impact: Delivered root-cause insights demonstrating that operational facility upgrades directly influence a 4.2x reduction in negative visitor feedback, providing leadership with data-driven resource allocation strategies.
 
-Tech Stack: Power BI, DAX, Power Query, Data Modeling (Star Schema), Python (Pandas/NLP Preprocessing), Data Visualization.
+Tech Stack: Power BI, DAX, Power Query, Data Modeling (Star Schema), GenAI, Data Visualization.
